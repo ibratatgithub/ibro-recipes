@@ -1,0 +1,39 @@
+body{
+    background-color: darkgreen;
+    margin: auto;
+    font-family: 'Times New Roman';
+}
+h1{
+    color: aqua;
+    font-weight: 700;
+    font-family: 'Times New Roman';
+    margin: auto;
+}
+h2{
+    color: aquamarine;
+    font-weight: 700;
+    font-family: 'Times New Roman';
+    margin: auto;
+}
+h3{
+    color: azure;
+    font-weight: 700;
+    font-family: 'Times New Roman';
+    margin: auto;
+}
+ul{
+    list-style: none;
+    color: aliceblue;
+    margin: auto;
+}
+ol{
+    color: aliceblue;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+img{
+    margin: auto;
+}
